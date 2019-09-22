@@ -12,9 +12,9 @@ The crawler can crawl the source code of up to 500 smart contracts at a time.
 But the crawler won't crawl contracts in multi-file format.
 
 # Usage
-'''
+```
 python main.py
-'''
+```
 
 # Attention
 When you use it, the crawler asks you to set two paths.
@@ -24,5 +24,6 @@ When you use it, the crawler asks you to set two paths.
 The two paths can be the same, but the correct path must be given.
 
 # License
+All codes of this program are released under the MIT License.
 
 
